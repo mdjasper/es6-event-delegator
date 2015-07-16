@@ -1,0 +1,25 @@
+{
+  "name": "es6-event-delegator",
+  "version": "1.0.0",
+  "description": "A utility function for attaching events handlerers to parents, while listening for actions on their children",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-jshint": "^1.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdjasper/es6-event-delegator.git"
+  },
+  "author": "Michael Jasper <mdjasper@ldschurch.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdjasper/es6-event-delegator/issues"
+  },
+  "homepage": "https://github.com/mdjasper/es6-event-delegator"
+}
